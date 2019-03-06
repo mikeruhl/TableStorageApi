@@ -11,6 +11,11 @@ This example is taken directly from [this Microsoft doc](https://docs.microsoft.
 
 It's a console app, run it from Visual Studio or the command line to get a demonstration of working with entities in storage account tables.
 
+## Tear down
+
+Don't forget to delete the storage account you created.  They cost money!
+
 ## Questions?
 
 Open an issue, let me know!
+
